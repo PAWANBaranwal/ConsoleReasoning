@@ -40,6 +40,8 @@ namespace ConsoleReasoning
             b = (int) a ;
 
 
+
+
             Console.ReadLine();
 
         }

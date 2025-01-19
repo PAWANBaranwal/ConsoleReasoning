@@ -150,7 +150,7 @@ namespace ConsoleReasoning
             }
             return sb.ToString();
         }
-
+         
         public static string MoveSpecialCharactorAttheEnd(this string str)
         {
             char[] chars = str.ToCharArray();
